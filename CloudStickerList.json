@@ -1,6 +1,6 @@
 {
    "returnCode":"200",
-   "returnMsg":"当前应用版本过低,发现最新版本\n是否立即下载最新",
+   "returnMsg":"当前应用版本过低,发现最新版本\n是否前往应用商店下载最新版本",
    "appVersion":"212",
    "downloadUrl":"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/EmojiSticker.apk",
    "returnResult":[  
