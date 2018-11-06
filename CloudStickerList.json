@@ -51,6 +51,37 @@
             "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/stkfanu.png",
             "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/stkfadai.png"
          ]
-      }
+      },
+      {  
+        "categoryName":"像素小人",
+        "categorySticker":[
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_6.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_7.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_11.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_12.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_17.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_18.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_19.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_20.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_25.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_29.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_30.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_31.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_32.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_33.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_37.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_57.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_58.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_59.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_60.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_61.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_62.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_63.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_64.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_65.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_66.png",
+           "https://raw.githubusercontent.com/TheMelody/3DEmoji/master/PixelEmoji/rage_67.png"
+        ]
+     }
    ]
 }
