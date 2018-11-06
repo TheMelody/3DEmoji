@@ -1,7 +1,7 @@
 {
    "returnCode":"200",
    "returnMsg":"当前应用版本过低,发现最新版本\n是否前往应用商店下载?",
-   "appVersion":"214",
+   "appVersion":"215",
    "downloadUrl":"",
    "returnResult":[  
       {
