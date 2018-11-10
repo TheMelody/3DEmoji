@@ -4,6 +4,31 @@
 	"appVersion": "215",
 	"downloadUrl": "",
 	"returnResult": [{
+			"categoryName": "James Sticker",
+			"categorySticker": [
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_1.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_2.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_3.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_4.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_5.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_6.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_7.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_8.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_9.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_10.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_11.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_12.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_13.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_14.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_15.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_16.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_17.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_18.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_19.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_20.png"
+			]
+		},
+		{
 			"categoryName": "手绘Emoji",
 			"categorySticker": [
 				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/edan_1.png",
