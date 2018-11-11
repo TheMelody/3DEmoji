@@ -4,6 +4,24 @@
 	"appVersion": "215",
 	"downloadUrl": "",
 	"returnResult": [{
+			"categoryName": "小新日常",
+			"categorySticker": [
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiao_xin/sticker_1.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiao_xin/sticker_2.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiao_xin/sticker_3.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiao_xin/sticker_4.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiao_xin/sticker_5.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiao_xin/sticker_6.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiao_xin/sticker_7.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiao_xin/sticker_8.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiao_xin/sticker_9.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiao_xin/sticker_10.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiao_xin/sticker_11.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiao_xin/sticker_12.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiao_xin/sticker_13.png"
+			]
+		},
+		{
 			"categoryName": "James Sticker",
 			"categorySticker": [
 				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/rcm_james/james_1.png",
