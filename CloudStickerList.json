@@ -1,7 +1,7 @@
 {
 	"returnCode": "200",
 	"returnMsg": "当前应用版本过低,发现最新版本\n是否前往应用商店下载?",
-	"appVersion": "215",
+	"appVersion": "217",
 	"downloadUrl": "",
 	"returnResult": [{
 			"categoryName": "樱桃小丸子",
@@ -20,7 +20,7 @@
 			]
 		},
 		{
-			"categoryName": "小新日常",
+			"categoryName": "蜡笔小新",
 			"categorySticker": [
 				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiao_xin/sticker_1.png",
 				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiao_xin/sticker_2.png",
