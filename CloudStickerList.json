@@ -4,31 +4,20 @@
 	"appVersion": "218",
 	"downloadUrl": "",
 	"returnResult": [{
-			"categoryName": "圣诞帽子",
+			"categoryName": "樱花季",
 			"categorySticker": [
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_01.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_02.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_03.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_04.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_05.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_06.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_07.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_08.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_09.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_10.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_11.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_12.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_13.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_14.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_15.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_16.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_17.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_18.png",
-				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/christmasday/stk_19.png"
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/stksgsakura/stksgsakura01.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/stksgsakura/stksgsakura02.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/stksgsakura/stksgsakura03.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/stksgsakura/stksgsakura04.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/stksgsakura/stksgsakura05.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/stksgsakura/stksgsakura06.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/stksgsakura/stksgsakura07.png",
+				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/stksgsakura/stksgsakura08.png"
 			]
 		},
 		{
-			"categoryName": "樱桃小丸子",
+			"categoryName": "小丸子",
 			"categorySticker": [
 				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiaowanzi/sticker_2.png",
 				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/xiaowanzi/sticker_3.png",
