@@ -1,9 +1,23 @@
 {
 	"returnCode": "200",
 	"returnMsg": "当前应用版本过低,发现最新版本\n是否前往应用商店下载?",
-	"appVersion": "221",
+	"appVersion": "224",
 	"downloadUrl": "",
 	"returnResult": [{
+		"categoryName": "小猪佩奇",
+		"categorySticker": [
+			"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/peiqi/01.png",
+			"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/peiqi/02.png",
+			"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/peiqi/03.png",
+			"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/peiqi/04.png",
+			"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/peiqi/05.png",
+			"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/peiqi/06.png",
+			"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/peiqi/07.png",
+			"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/peiqi/08.png",
+			"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/peiqi/09.png"
+		]
+	},
+		{
 			"categoryName": "樱花季",
 			"categorySticker": [
 				"https://raw.githubusercontent.com/TheMelody/3DEmoji/master/stksgsakura/stksgsakura01.png",
